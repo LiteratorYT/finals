@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Имя Фамилия</title>
+    <title>Иван Акимов</title>
 </svelte:head>
 
 <div class="container">
@@ -9,7 +9,7 @@
                 <div class="info-text">
                     <h1>
                     <p class="animate-text-1">Персональный сайт,</p>
-                    <p class="text-2">Андрея Кузнецова</p>
+                    <p class="text-2">Акимова Ивана</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
