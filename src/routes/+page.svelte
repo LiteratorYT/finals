@@ -13,7 +13,7 @@
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                   Добро пожаловать на мой сайт, где вы можете узнать немного обо мне и моих увлечениях.
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Узнать обо мне</a><div class="arrow">→</div>
